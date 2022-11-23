@@ -1,0 +1,21 @@
+{
+  "name": "vscode-theme-vitesse-monokai",
+  "displayName": "Vitesse Monokai",
+  "description": "A Vitesse + Monokai theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vitesse Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vitesse Monokai-color-theme.json"
+      }
+    ]
+  }
+}
