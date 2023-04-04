@@ -276,79 +276,78 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#E6DB74f0"
+        "foreground": "#E6DB74"
       }
     },
     {
       "name": "Template Definition",
       "scope": ["punctuation.definition.template-expression", "punctuation.section.embedded"],
       "settings": {
-        "foreground": "#F92672f0"
+        "foreground": "#F92672"
       }
     },
     {
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
-        "foreground": "#F8F8F2f0"
+        "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#AE81FFf0"
+        "foreground": "#AE81FF"
       }
     },
     {
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#AE81FFf0"
+        "foreground": "#AE81FF"
       }
     },
     {
       "name": "User-defined constant",
       "scope": "constant.character, constant.other",
       "settings": {
-        "foreground": "#AE81FFf0"
+        "foreground": "#AE81FF"
       }
     },
     {
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#F8F8F2f0"
+        "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "#F92672f0"
+        "foreground": "#F92672"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#F92672f0"
+        "foreground": "#F92672"
       }
     },
     {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#66D9EFf0"
+        "fontStyle": "italic",
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
       "settings": {
-        "foreground": "#A6E22Ef0"
+        "foreground": "#A6E22E"
       }
     },
     {
@@ -356,15 +355,14 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#A6E22Ef0"
+        "foreground": "#A6E22E"
       }
     },
     {
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#A6E22Ef0"
+        "foreground": "#A6E22E"
       }
     },
     {
@@ -372,63 +370,63 @@
       "scope": "variable.parameter",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FD971Ff0"
+        "foreground": "#FD971F"
       }
     },
     {
       "name": "Tag name",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#F92672f0"
+        "foreground": "#F92672"
       }
     },
     {
       "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#A6E22Ef0"
+        "foreground": "#A6E22E"
       }
     },
     {
       "name": "Library function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#66D9EFf0"
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#66D9EFf0"
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "Library class/type",
       "scope": "support.type, support.class",
       "settings": {
-        "foreground": "#66D9EFf0"
+        "foreground": "#66D9EF"
       }
     },
     {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "foreground": "#F44747f0"
+        "foreground": "#F44747"
       }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#F44747f0"
+        "foreground": "#F44747"
       }
     },
     {
       "name": "JSON String",
       "scope": "meta.structure.dictionary.json string.quoted.double.json",
       "settings": {
-        "foreground": "#E6DB74f0"
+        "foreground": "#E6DB74"
       }
     },
     {
